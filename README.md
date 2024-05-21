@@ -16,10 +16,7 @@ In this project, I'm demonstrating my proficiency in Python by showcasing my ski
 
 ## Visualization
 
-- **Time Series Plots**: Visualized stock price trends over time.
-- **Candlestick Charts**: Provided comprehensive views of open, high, low, and close prices for analysis.
-- **Moving Averages**: Plotted moving averages for trend identification.
-- **Volume Analysis**: Incorporated volume data to understand trading activity.
+- I used the `make_graph` function to generate visualizations depicting the stock performance of Tesla and GameStop. Each visualization showcased the closing prices of the stocks over time, coupled with revenue data, and was titled with the corresponding stock name.
 
 ## Conclusion
 
